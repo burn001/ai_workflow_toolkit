@@ -1,0 +1,8 @@
+AI Workflow Toolkit
+Copyright 2026 burn001 (Dr. Cho, Sangkyu)
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+External tools linked from this repository (kordoc, korean-stats-mcp,
+assembly-api-mcp, korean-law-mcp, korean-patent-mcp, agent4d) are separate
+projects under their own licenses and are not included here.

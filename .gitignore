@@ -1,0 +1,23 @@
+# 비밀 정보 — 절대 커밋하지 않음
+.env
+.env.*
+!.env.example
+secrets/
+secret/
+credentials/
+*.key
+*.pem
+*_api_key.txt
+
+# Claude Code 개인 설정
+.claude/settings.local.json
+
+# OS·편집기
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# 리서치 중간 산출물
+_artifacts/
