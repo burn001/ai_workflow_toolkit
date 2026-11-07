@@ -111,7 +111,7 @@ ai_workflow_toolkit/
 | 국회(의안·회의록·표결) | [hollobit/assembly-api-mcp](https://github.com/hollobit/assembly-api-mcp) | [열린국회정보](https://open.assembly.go.kr) | [3절](docs/api-keys.md#3-국회--열린국회정보) |
 | 국회예산정책처 | 〃 (선택 키) | [nabo.go.kr](https://www.nabo.go.kr) | [3-1절](docs/api-keys.md#3-1-국회예산정책처nabo--선택) |
 | 국회입법조사처 보고서 | 공공데이터포털 | [data.go.kr](https://www.data.go.kr) | [3-2절](docs/api-keys.md#3-2-국회입법조사처--별도-키-없음공공데이터포털-경유) |
-| 법령·판례(법제처) | [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) | [open.law.go.kr](https://open.law.go.kr) (OC) | [4절](docs/api-keys.md#4-법제처--국가법령정보-공동활용) |
+| 법령·판례(법제처) | [chrisryugj/korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp) | [국가법령정보 공동활용](https://open.law.go.kr) (OC) | [4절](docs/api-keys.md#4-법제처--국가법령정보-공동활용) |
 | 특허(KIPRIS) | [chrisryugj/korean-patent-mcp](https://github.com/chrisryugj/korean-patent-mcp) | [KIPRIS Plus](https://plus.kipris.or.kr) | [5절](docs/api-keys.md#5-특허--kipris-plus) |
 | 에이전트 시각화 | [burn001/agent4d](https://github.com/burn001/agent4d) | 불필요 | [docs/agent4d.md](docs/agent4d.md) |
 
