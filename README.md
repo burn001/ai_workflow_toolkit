@@ -10,6 +10,7 @@ Claude Code 같은 AI 에이전트에게 일을 맡기다 보면 "어제 어디�
 2. **리서치 스킬** (`skills/research/`) — 웹 출처 수집 → 사실 확인 → 보고서 작성을 여러 에이전트로 나눠 돌리는 워크플로 모음.
 3. **연동 도구 안내** (`docs/api-keys.md`) — 한글 문서(HWP), 국가통계, 국회, 법령, 특허 데이터를 에이전트에 붙이는 공개 도구와 API 키 받는 법.
 4. **Agent4D 소개** (`docs/agent4d.md`) — 에이전트가 일하는 모습을 3D로 보는 도구.
+5. **강의 실습 다시 해 보기** (`docs/lecture-dependencies.md`) — 2026년 11월 공주여성새로일하기센터 강의 실습(한글 보고서·슬라이드·설문·모션그래픽·CEO 대시보드·일자리 지도·돌봄시설 지도 등)을 내 PC에서 재현할 때 필요한 도구·글꼴·데이터 출처·지도 서비스와 흔한 막힘.
 
 ---
 
@@ -84,6 +85,7 @@ ai_workflow_toolkit/
 │       └── _common/                  ← 웹 출처 수집·한국 학술논문 검색·사실 확인·시각 자료
 ├── docs/
 │   ├── api-keys.md                   ← 연동 도구와 API 키 받는 법
+│   ├── lecture-dependencies.md       ← 강의 실습 재현에 필요한 도구·출처
 │   └── agent4d.md                    ← Agent4D 소개
 ├── .env.example                      ← API 키 넣는 자리(값은 비워 둠)
 └── LICENSE                           ← Apache-2.0
